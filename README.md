@@ -62,7 +62,7 @@ fin
 #### Objects and Arrays
 ```
 Albus.Dumbledore is identical to a group of intrinsically related values consisting of 
-    Sonny.Moore which contains an array values consisting of 0 and 0 and 1 
+    Sonny.Moore which contains an array of values consisting of 0 and 0 and 1 
 as well as 
     Dorian.Gray which contains an array of values consisting of 0 and 1 and 0
 that is all
