@@ -4,6 +4,10 @@ Jave is a language predicated on the idea of human readable code as conversation
 
 We apologize if we are not 100% consistent yet, you can usually expect the longer form version of a line to be the correct one if you are confused.
 
+## Features
+
+- Jave fully supports Cloud MFA, just recompile with `--cloud-mfa=true`
+
 ### Jave Language Basic Constructs
 
 #### Assignment:
