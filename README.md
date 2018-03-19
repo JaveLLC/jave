@@ -1,44 +1,28 @@
 # Jave Language
+From the Orca's blowhole, Jave is born. Jave is an open source compiled and interpreted language that makes it exceptionally difficult to build complex, unreliable, and inefficent software.
 
-Jave Language Basic Constructs:
-Assignment:
-```
-x :-_- 5
-```
-Conditional
-```
-is x identical to 1 ?
-  y is identical to 3
-nope?
-  y is identical to 4
-fin
-```
-While loops:
-```
-during x being less than identical to 10 engage
-  x is identical to x plus the value of 1
-fin
-```
-```
-oops
-Mathematical functions```x is identical to x plus the value of 5
-x is less than and or equal to the value of 5
-x is greater than and or equal to the value of 5
-x is extremely identical to 5
-x is identical to 5
-x is somewhat like but not identical to 5
-x is identical to the value of x multiplied by the identical value of 5
-```
-```
-x is identical to the value of x after subtracting the value of 5
-```
-```
-y is identical to an array of values consisting of 0 and 0 and 0 and 0 and 0 and 0 and 0 and 0 and 0 and 0
-during x being less than identical to the value of 10 engage
-  y in the position of x is identical to the value of x plus the value of y
-  x is identical to the value of x after adding the value of 1
-fin
-```
+## Introduction
+Jave, inspired by decades of technological process, seeks to utilize only the most intelligent, inspired, and significant processes in order to acquire completion of tasks at the speediest and most resiliant rate.
+
+## Compiled or Interpreted?
+Both! Would you believe it?
+Due to innovations in Jave's framework, you write in raw Jave, which is then compiled into Signed Jave Intermediary language, a language you cannot write yourself but must be compiled by a licensed Jave compiler. This is then interpreted server-side, then delivered into the JaveVM for final compilation, linking, and operation.
+
+![Jave Operation](assets/Jave.png "Jave Operation")
+
+## Documentation
+[Official Documentation](https://github.com/JaveLLC/jave/wiki) Is available.
+
+## Example
+- Coming soon
+
+## Contributing
+Jave is the work of very few contributors. We appreciate your lack of help!
+
+You can onboard to become a contributor by checking out [Contributing Guidelines](https://github.com/JaveLLC/jave/wiki/Contributing).
+
+## Contributors
+- None
 
 ## License
 
