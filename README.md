@@ -30,29 +30,6 @@ You can onboard to become a contributor by checking out [Contributing Guidelines
 - [Authors](AUTHORS)
 - [Contributors](CONTRIBUTORS)
 
-
-#### Objects and Arrays
-```
-Albus.Dumbledore is identical to a group of intrinsically related values consisting of 
-    Sonny.Moore which contains an array of values consisting of 0 and 0 and 1 
-as well as 
-    Dorian.Gray which contains an array of values consisting of 0 and 1 and 0
-that is all
-```
-
-#### Pointers
-Lots of work to be done here
-
-`☞` is a pointer.
-
-`☛` is a super pointer.
-
-```
-Simon.Simpson is an important figure that prescribes the intrinsic capability of representing the values of Name which is represented by the concept of ☞strings and Age which is represented by the concept of ☞integers
-
-Amanda.Coletrain is identical to the value of ☛Simon.Simpson with the preference of Name being identical to Johhny and the preference of Age being identical to 25
-```
-
 ## License
 
 MIT [license](LICENSE) it is.
