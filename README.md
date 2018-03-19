@@ -1,89 +1,37 @@
 # Jave Language
+From the Orca's blowhole, Jave is born. Jave is an open source compiled and interpreted language that makes it exceptionally difficult to build complex, unreliable, and inefficent software.
 
-Jave is a language predicated on the idea of human readable code as conversation.
+## Introduction
+Jave, inspired by decades of technological process, seeks to utilize only the most intelligent, inspired, and significant processes in order to acquire completion of tasks at the speediest and most resiliant rate.
 
-We apologize if we are not 100% consistent yet, you can usually expect the longer form version of a line to be the correct one if you are confused.
+## Compiled or Interpreted?
+Both! Would you believe it?
 
-## Features
+Due to innovations in Jave's framework, one writes in raw Jave, which is then compiled into Signed Jave Intermediary language, a language one cannot write oneself, but must be compiled by a licensed Jave compiler. This is then interpreted server-side, then delivered into the JaveVM for final compilation, linking, and operation.
 
-- Jave fully supports Cloud MFA, just recompile with `--cloud-mfa=true`
+Jave brings the _enterprise_ to your home Today!
 
-### Jave Language Basic Constructs
+![Jave Operation](assets/Jave.png "Jave Operation")
 
-#### Assignment:
-This readme is using short variable names for ease of reading, however the Jave specification demands first names and surnames for variables.
+## More Diagrams
+#### Show your boss to convince him to port your project to Jave:
 
-eg.
+- _Coming soon_
 
-```
-Tim.Heidecker is identical to the value of 5
-```
+## Documentation
+[Official Documentation](https://github.com/JaveLLC/jave/wiki) is available for your pleasure.
 
+## Example
+- _Coming soon_
 
-```
-x is identical to the value of5
-```
+## Contributing
+Jave is the work of very few contributors. We appreciate your lack of help!
 
-#### Conditional
-```
-is x identical to 1 ?
-  y is identical to 3
-or is x identical to 2 ?
-  y is identical to 1
-nope?
-  y is identical to 4
-fin
-```
+You can onboard to become a contributor by checking out [Contributing Guidelines](https://github.com/JaveLLC/jave/wiki/Contributing). Don't forget to PR yourself into the [CONTRIBUTORS](CONTRIBUTORS) list!
 
-#### While loops:
-```
-during x being less than identical to 10 engage
-  x is identical to x plus the value of 1
-fin
-```
-
-#### Mathematical functions
-Just an overview
-```x is identical to x plus the value of 5
-x is less than and or equal to the value of 5
-x is greater than and or equal to the value of 5
-x is extremely identical to 5
-x is identical to 5
-x is somewhat like but not identical to 5
-x is identical to the value of x multiplied by the identical value of 5
-x is identical to the value of x after subtracting the value of 5
-```
-
-Advanced while loop with array assignment
-```
-y is identical to an array of values consisting of 0 and 0 and 0 and 0 and 0 and 0 and 0 and 0 and 0 and 0
-during x being less than identical to the value of 10 engage
-  y in the position of x is identical to the value of x plus the value of y
-  x is identical to the value of x after adding the value of 1
-fin
-```
-
-#### Objects and Arrays
-```
-Albus.Dumbledore is identical to a group of intrinsically related values consisting of 
-    Sonny.Moore which contains an array of values consisting of 0 and 0 and 1 
-as well as 
-    Dorian.Gray which contains an array of values consisting of 0 and 1 and 0
-that is all
-```
-
-#### Pointers
-Lots of work to be done here
-
-`☞` is a pointer.
-
-`☛` is a super pointer.
-
-```
-Simon.Simpson is an important figure that prescribes the intrinsic capability of representing the values of Name which is represented by the concept of ☞strings and Age which is represented by the concept of ☞integers
-
-Amanda.Coletrain is identical to the value of ☛Simon.Simpson with the preference of Name being identical to Johhny and the preference of Age being identical to 25
-```
+## Contributors
+- [Authors](AUTHORS)
+- [Contributors](CONTRIBUTORS)
 
 ## License
 
