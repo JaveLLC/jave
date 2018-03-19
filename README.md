@@ -22,7 +22,8 @@ Jave is the work of very few contributors. We appreciate your lack of help!
 You can onboard to become a contributor by checking out [Contributing Guidelines](https://github.com/JaveLLC/jave/wiki/Contributing).
 
 ## Contributors
-- None
+- [Authors](AUTHORS)
+- [Contributors](CONTRIBUTORS)
 
 ## License
 
