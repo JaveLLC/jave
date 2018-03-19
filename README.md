@@ -6,25 +6,28 @@ Jave, inspired by decades of technological process, seeks to utilize only the mo
 
 ## Compiled or Interpreted?
 Both! Would you believe it?
-Due to innovations in Jave's framework, you write in raw Jave, which is then compiled into Signed Jave Intermediary language, a language you cannot write yourself but must be compiled by a licensed Jave compiler. This is then interpreted server-side, then delivered into the JaveVM for final compilation, linking, and operation.
+
+Due to innovations in Jave's framework, one writes in raw Jave, which is then compiled into Signed Jave Intermediary language, a language one cannot write oneself, but must be compiled by a licensed Jave compiler. This is then interpreted server-side, then delivered into the JaveVM for final compilation, linking, and operation.
+
+Jave brings the _enterprise_ to your home Today!
 
 ![Jave Operation](assets/Jave.png "Jave Operation")
 
 ## More Diagrams
-#### To show your boss to convince him to port your project to Jave
+#### Show your boss to convince him to port your project to Jave:
 
-- Coming soon
+- _Coming soon_
 
 ## Documentation
-[Official Documentation](https://github.com/JaveLLC/jave/wiki) Is available.
+[Official Documentation](https://github.com/JaveLLC/jave/wiki) is available for your pleasure.
 
 ## Example
-- Coming soon
+- _Coming soon_
 
 ## Contributing
 Jave is the work of very few contributors. We appreciate your lack of help!
 
-You can onboard to become a contributor by checking out [Contributing Guidelines](https://github.com/JaveLLC/jave/wiki/Contributing).
+You can onboard to become a contributor by checking out [Contributing Guidelines](https://github.com/JaveLLC/jave/wiki/Contributing). Don't forget to PR yourself into the [CONTRIBUTORS](CONTRIBUTORS) list!
 
 ## Contributors
 - [Authors](AUTHORS)
