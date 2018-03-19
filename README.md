@@ -10,6 +10,8 @@ Due to innovations in Jave's framework, you write in raw Jave, which is then com
 
 ![Jave Operation](assets/Jave.png "Jave Operation")
 
+We hope we can even come close to something as complex and convoluted as this.
+
 ## Documentation
 [Official Documentation](https://github.com/JaveLLC/jave/wiki) Is available.
 
