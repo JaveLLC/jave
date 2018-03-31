@@ -19,7 +19,7 @@ Jave brings the _enterprise_ to your home Today!
 - _Coming soon_
 
 ## Documentation
-[Official Documentation](https://github.com/JaveLLC/jave/wiki) is available for your pleasure.
+[Official Documentation](https://github.com/OrcaLLC/jave/wiki) is available for your pleasure.
 
 ## Example
 - _Coming soon_
@@ -27,7 +27,7 @@ Jave brings the _enterprise_ to your home Today!
 ## Contributing
 Jave is the work of very few contributors. We appreciate your lack of help!
 
-You can onboard to become a contributor by checking out [Contributing Guidelines](https://github.com/JaveLLC/jave/wiki/Contributing). Don't forget to PR yourself into the [CONTRIBUTORS](CONTRIBUTORS) list!
+You can onboard to become a contributor by checking out [Contributing Guidelines](https://github.com/OrcaLLC/jave/wiki/Contributing). Don't forget to PR yourself into the [CONTRIBUTORS](CONTRIBUTORS) list!
 
 ## Contributors
 - [Authors](AUTHORS)
