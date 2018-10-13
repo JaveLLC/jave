@@ -1,0 +1,10 @@
+/\ THIS IS A COMMENT
+\/
+operation (<Test>)<<name strand>> (<nameWithText strand>) <{
+    allow newName 2b=2 name + << surname>>;;
+    give newName up;;
+}>
+
+operation (<entry>)<<>>(<>) <{
+    Test :< <<My Name>>;;
+}>
