@@ -4,8 +4,6 @@
 
 package main
 
-import "github.com/OrcaLLC/jave/cmd"
-
 func main() {
-	cmd.Execute()
+	// Load what we need then load either the file handler or input getter
 }
