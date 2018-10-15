@@ -1,5 +1,14 @@
-/\ THIS IS A COMMENT
+/\
+    Jave script to test lexing
 \/
+/\
+    Basic function
+    layout:
+    operation (<NAME>)<<var type>> (<returnVar type>) <{
+
+    }>
+\/
+//\\ inline comment
 operation (<Test>)<<name strand>> (<nameWithText strand>) <{
     allow newName 2b=2 name + << surname>>;;
     give newName up;;

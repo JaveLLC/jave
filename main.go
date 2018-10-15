@@ -15,6 +15,12 @@ import (
 func main() {
 	// Fetch arguments to get the filename
 	runArgs := os.Args[1:]
+
+	// If no arguments exit quietly because we don't have interactive yet
+	if len(runArgs) < 1 {
+		log.Fatal("No interactive jave yet.")
+	}
+
 	filePath := runArgs[0]
 
 	// Jave can only run one file at a time, dingus
@@ -27,5 +33,11 @@ func main() {
 	if err != nil {
 		log.Fatalf("[JAVE FAIL]: %v\n", err)
 	}
-	fmt.Printf("%v", thing)
+	//fmt.Printf("%v", thing)
+	//fmt.Print("\n")
+	//fmt.Print("\n")
+
+	stuff := lexer.Lex(thing)
+	fmt.Printf("%v", stuff)
+	fmt.Print("\n")
 }
