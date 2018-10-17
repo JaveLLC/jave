@@ -1,0 +1,6 @@
+/\
+    Jave script to test v0.1 lexing
+\/
+//\\ Print something
+insist <<This is some text>>
+insist <<This allows you to use \>\> as a string!>>
